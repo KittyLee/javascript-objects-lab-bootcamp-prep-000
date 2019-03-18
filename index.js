@@ -1,5 +1,3 @@
-var recipes = {objects};
-
 function updateObjectsWithKeyAndValue () {
-  return recipes 
+  return Object.assign (recipes);
 }
