@@ -1,3 +1,3 @@
 function updateObjectsWithKeyAndValue () {
-  return Object.assign (recipes);
+  return Object.create (recipes);
 }
